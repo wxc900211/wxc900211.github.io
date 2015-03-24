@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="app.js"></script>
+<title>xiaochen's calculator!</title> 
+<style type="text/css"> 
+body { 
+font-size:12px; 
+font-family:Arial, Georgia, "Times New Roman", Times, serif; 
+color:#555; 
+text-align:center; 
+background-color:#e2e2e2; 
+} 
+h6{ 
+margin:0; 
+font-size:12px; 
+} 
+#calculator { 
+width:240px; 
+height:auto; 
+overflow:hidden; 
+margin:100px auto; 
+border:#fff 10px solid; 
+padding-bottom:50px; 
+background-color:#f2f2f2; 
+} 
+#calculator div { 
+clear:both; 
+} 
+#calculator ul{ 
+padding:0; 
+margin:5px 14px; 
+border:#fff 1px solid; 
+height:auto; 
+overflow:hidden 
+} 
+#calculator li{ 
+list-style:none; 
+float:left; 
+width:40px; 
+height:32px; 
+margin:6px; 
+display:inline; 
+line-height:32px; 
+font-size:14px; 
+background-color:#eaeaea; 
+} 
+#calcu-head { 
+text-align:left; 
+padding:10px 15px 5px; 
+} 
+.screen{ 
+width:200px; 
+height:24px; 
+line-height:24px; 
+padding:4px; 
+border:#e6e6e6 1px solid; 
+border-bottom:#f2f2f2 1px solid; 
+border-right:#f2f2f2 1px solid; 
+margin:10px auto; 
+direction:ltr; 
+text-align:right; 
+font-size:16px; 
+color:#999; 
+} 
+#calcu-foot{ 
+text-align:left; 
+padding:10px 15px 1px; 
+height:auto; 
+overflow:hidden; 
+} 
+span.welcome{ 
+clear:both; 
+color:#999; 
+} 
+</style> 
+</head> 
+<body> 
+<div id="calculator"> 
+<div id="calcu-head"><h6>simple calculator</h6></div> 
+<form name="calculator" action="" method="get"> 
+<div id="calcu-screen"> </div> 
+<input type="text" name="numScreen" class="screen" value="0";" /> 
+<div id="calcu-btn"> 
+<ul> 
+<li onclick="command(7)">7</li> 
+<li onclick="command(8)">8</li> 
+<li onclick="command(9)">9</li> 
+<li class="tool" onclick="plus()">+</li> 
+<li onclick="command(4)">4</li> 
+<li onclick="command(5)">5</li> 
+<li onclick="command(6)">6</li> 
+<li class="tool" onclick="minus()">-</li>
+<li onclick="command(1)">1</li> 
+<li onclick="command(2)">2</li> 
+<li onclick="command(3)">3</li> 
+<li class="tool" onclick="times()">×</li>  
+<li onclick="command(0)">0</li> 
+<li class="tool" onclick="equal()">=</li> 
+<li class="tool" onclick="clearscreen()">C</li> 
+<li class="tool" onclick="divide()">÷</li> 
+</ul> 
+</div> 
+<div id="calcu-foot"> 
+<span class="welcome">welcome to use this simple calculator!</span> 
+</div> 
+</form> 
+</div> 
+</body> 
+</html> 
