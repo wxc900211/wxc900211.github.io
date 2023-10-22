@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Welcome to Xiaochen Ideas</title>
+        <link>https://wxc900211.github.io/</link>
+        <description>Xiaochen&#39;s Ideas</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 21 Oct 2023 21:26:23 &#43;0200</lastBuildDate>
+            <atom:link href="https://wxc900211.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Credit Card Fraud Detection</title>
+    <link>https://wxc900211.github.io/posts/credit-card-fraud-detection/creditcardfrauddetection/</link>
+    <pubDate>Sat, 21 Oct 2023 21:26:23 &#43;0200</pubDate>
+    <author>Xiaochen</author>
+    <guid>https://wxc900211.github.io/posts/credit-card-fraud-detection/creditcardfrauddetection/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/CreditCard.png" referrerpolicy="no-referrer">
+            </div>Machine Learning in Credit Card Fraud Detection]]></description>
+</item>
+</channel>
+</rss>
