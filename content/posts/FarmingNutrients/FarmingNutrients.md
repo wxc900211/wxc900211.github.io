@@ -127,7 +127,7 @@ This makes choropleth maps useful for visualizing clusters of data across a **ge
 
 ![](https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/v1.gif)
 
-This is an **interactive** visualization and the code is available for deployment.Click [here](https://github.com/wxc900211/Geographic-Visualization-of-Nutrients/blob/main/US-farming-dash.py) to check code in **GitHub**.
+This is an **interactive** visualization and the code is available for deployment. Click [here](https://github.com/wxc900211/Geographic-Visualization-of-Nutrients/blob/main/US-farming-dash.py) to check code in **GitHub**.
 
 See how the values change with time (PS: The country and data displayed on this website is faked) :
 
