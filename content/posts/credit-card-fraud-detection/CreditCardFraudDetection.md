@@ -6,12 +6,12 @@ date: 2023-10-21T21:26:23+02:00
 lastmod: 2023-10-21T21:26:23+02:00
 draft: false
 author: "Xiaochen"
-authorLink: ""
+authorLink: "/about/"
 description: "Machine Learning in Credit Card Fraud Detection"
 license: ""
 images: []
 
-tags: ["Prediction"]
+tags: ["Prediction","Finance"]
 categories: ["Machine Learning"]
 
 featuredImage: "https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/CreditCard.png"
