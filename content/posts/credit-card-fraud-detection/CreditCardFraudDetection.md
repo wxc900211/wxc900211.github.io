@@ -231,7 +231,7 @@ ConfusionMatrixDisplay(confusion_matrix=cm).plot()
 
 ![](https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/CreditCard_cm.png)
 
-Click [here](https://github.com/wxc900211/DataProject/blob/main/credit-card-fraud-detection.ipynb) to check code in **GitHub**.
+Click [here](https://github.com/wxc900211/Credit-Card-Fraud-Detection/blob/main/credit-card-fraud-detection.ipynb) to check code in **GitHub**.
 
 
 
