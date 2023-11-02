@@ -125,7 +125,7 @@ It’s made by separating the area being mapped, such as by geographic or politi
 This makes choropleth maps useful for visualizing clusters of data across a **geographic area** while maintaining the context of **regional boundaries**.
 {{< /admonition >}}
 
-![](https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/v1.gif)
+![](https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/v2.gif)
 
 This is an **interactive** visualization and the code is available for deployment. Click [here](https://github.com/wxc900211/Geographic-Visualization-of-Nutrients/blob/main/US-farming-dash.py) to check code in **GitHub**.
 
