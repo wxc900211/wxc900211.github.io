@@ -136,9 +136,9 @@ See how the values change with time (PS: The country and data displayed on this 
 
 (PS: The country and data displayed on this website is faked.)
 
-![](https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/f1.png)
+![](https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/f4.png)
 
-![](https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/f2.png)
+![](https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/f3.png)
 
 ## 4 Business Value
 
