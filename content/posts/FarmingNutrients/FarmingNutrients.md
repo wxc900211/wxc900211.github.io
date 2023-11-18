@@ -83,7 +83,7 @@ Here, we take one country as an example to show the final effect.
 
 * **Data Cleaning**
 
-The data is recorded mannually, so we unify the name of elements and units of analysis results.
+The data is recorded manually, so we unify the name of elements and units of analysis results.
 
 {{< admonition example "Examples" >}}
 **The name of elements** :*Phosphorus*
@@ -111,7 +111,7 @@ Decimal Places=1
 
 {{< /admonition >}}
 
-2. **Group results :** The minimum area unit showed is **PostCodeArea**, so we average the value in each PostCodeArea by year. In the end, we have 121*21=2541 rows of data prepared for visulazation.
+2. **Group results :** The minimum area unit showed is **PostCodeArea**, so we average the value in each PostCodeArea by year. In the end, we have 121*21=2541 rows of data prepared for visualization.
 
 
 ## 3 Geographic Visualization
