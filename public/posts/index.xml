@@ -3,7 +3,27 @@
         <title>All Posts - Welcome to Xiaochen Ideas</title>
         <link>https://wxc900211.github.io/posts/</link>
         <description>All Posts | Welcome to Xiaochen Ideas</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 22 Oct 2023 21:06:12 &#43;0200</lastBuildDate><atom:link href="https://wxc900211.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 21:06:12 &#43;0200</lastBuildDate><atom:link href="https://wxc900211.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Geographic Visualization of Nutrients from Crops</title>
+    <link>https://wxc900211.github.io/posts/farmingnutrients/farmingnutrients/</link>
+    <pubDate>Sun, 22 Oct 2023 21:06:12 &#43;0200</pubDate>
+    <author>Xiaochen</author>
+    <guid>https://wxc900211.github.io/posts/farmingnutrients/farmingnutrients/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/Farming.png" referrerpolicy="no-referrer">
+            </div>Geographic Visualization of Nutrients from Crops]]></description>
+</item>
+<item>
+    <title>Applying ML Models to Flipping Properties Business</title>
+    <link>https://wxc900211.github.io/posts/flippingpropertiesbusiness/flippingpropertiesbusiness/</link>
+    <pubDate>Thu, 06 Jun 2024 21:06:12 &#43;0200</pubDate>
+    <author>Xiaochen</author>
+    <guid>https://wxc900211.github.io/posts/flippingpropertiesbusiness/flippingpropertiesbusiness/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/202412170141233.jpg" referrerpolicy="no-referrer">
+            </div>Applying ML Models to Flipping Properties Business]]></description>
+</item>
+<item>
     <title>Credit Card Fraud Detection</title>
     <link>https://wxc900211.github.io/posts/credit-card-fraud-detection/creditcardfrauddetection/</link>
     <pubDate>Sat, 21 Oct 2023 21:26:23 &#43;0200</pubDate>
@@ -12,16 +32,6 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/CreditCard.png" referrerpolicy="no-referrer">
             </div>Machine Learning in Credit Card Fraud Detection]]></description>
-</item>
-<item>
-    <title>FarmingNutrients</title>
-    <link>https://wxc900211.github.io/posts/farmingnutrients/farmingnutrients/</link>
-    <pubDate>Sun, 22 Oct 2023 21:06:12 &#43;0200</pubDate>
-    <author>Xiaochen</author>
-    <guid>https://wxc900211.github.io/posts/farmingnutrients/farmingnutrients/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/wxc900211/PictureBed/main/PicGo/Farming.png" referrerpolicy="no-referrer">
-            </div>Geographic Visualization of Nutrients from Crops]]></description>
 </item>
 </channel>
 </rss>
