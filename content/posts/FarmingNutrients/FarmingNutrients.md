@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: "Geographic Visualization of Nutrients from Crops"
 subtitle: ""
 date: 2023-10-22T21:06:12+02:00

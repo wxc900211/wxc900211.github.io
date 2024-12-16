@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 3
 title: "Credit Card Fraud Detection"
 subtitle: ""
 date: 2023-10-21T21:26:23+02:00
